@@ -2,10 +2,17 @@
 	"author": "Jose Brache Garcia",
 	"name": "fcc-learn-npm-package-json",
 	"description": "Node Boilerplate to build Web Apps Quickly",
-	"keywords": ["freecodecamp", "node", "boilerplate", "web", "challenge"],
+	"keywords": [
+		"freecodecamp",
+		"node",
+		"boilerplate",
+		"web",
+		"challenge"
+	],
 	"license": "MIT",
 	"version": "1.0.0",
 	"dependencies": {
+		"@freecodecamp/example": "1.1.0",
 		"express": "^4.14.0"
 	},
 	"main": "server.js",
