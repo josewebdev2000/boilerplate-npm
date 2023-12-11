@@ -1,6 +1,7 @@
 {
 	"author": "Jose Brache Garcia",
 	"name": "fcc-learn-npm-package-json",
+	"description": "Node Boilerplate to build Web Apps Quickly",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
